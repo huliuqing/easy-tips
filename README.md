@@ -55,7 +55,7 @@ fixing    | 查漏补缺修改中
 
     - [数据类型](http://php.net/manual/zh/language.types.php)
     - [运算符优先级](http://php.net/manual/zh/language.operators.precedence.php)
-    - [string函数](http://php.net/ref.strings.php)
+    - [string函数](http://php.net/manual/zh/ref.strings.php)
     - [array函数](http://php.net/manual/zh/ref.array.php)
     - [math函数](http://php.net/manual/zh/ref.math.php)
     - [面向对象](http://php.net/manual/zh/language.oop5.php)
